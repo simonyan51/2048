@@ -1,0 +1,29 @@
+.matrix {
+    background-color: #BBADA0;
+    border-collapse: separate;
+    border-spacing: 6px;
+    width: 100%;
+
+}
+
+.row {
+
+}
+
+.square-background-color {
+    background-color: #f67c5f !important;
+}
+
+
+.square {
+   height: 50px;
+   width: 50px;
+  background-color: #CDC1B4;
+  border-radius: 6px;
+  color: #f1f1f1;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: 22px;
+  
+}
